@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net10.0</TargetFramework>
+    <RootNamespace>Vehicle_Rental_Simulator__OOPs_</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <StartupObject>Vehicle_Rental_Simulator__OOPs_.Controller.VehicleRentalController</StartupObject>
+  </PropertyGroup>
+
+</Project>
